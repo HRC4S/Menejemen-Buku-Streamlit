@@ -48,7 +48,7 @@ python models.py
 
 ```
 project/
-├── main.py          # CPMK.06.1 - Program basic
+├── models.py          # CPMK.06.1 - Program basic
 ├── server.py        # CPMK.09.2 - REST API Server
 ├── client.py        # CPMK.09.2 - API Client
 ├── requirements.txt # Dependencies
